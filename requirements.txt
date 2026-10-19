@@ -1,4 +1,1 @@
-sys
-time
-pytubefix
-pytubefix.cli
+pytubefix>=11.2.1
